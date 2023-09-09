@@ -39,6 +39,8 @@ Compute the probabilities $P(A)$ of the following events.
 
 **(b)** $A = \\{\text{all nonnegative even integers}\\}$ (_Hint_: The formula for hyperbolic cosine [here](https://en.wikipedia.org/wiki/Hyperbolic_functions#Taylor_series_expressions) might be helpful.)
 
+Will we have to remember that for  test?
+
 ---
 
 **Problem 3**: Describe in complete detail a probability space that models each of the following scenarios. Be sure to check that the two requirements in the Discrete Probability Construction Lemma are both satisfied.
