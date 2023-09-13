@@ -39,7 +39,7 @@ $$
 The probability measure is discrete with mass function given by
 
 $$
-p(TTT) = (0.85)^3, \quad p(\text{two tails}) = 3(0.15)(0.85)^2, \quad p(\text{one tail}) = **3(0.15)^2(0.85), \quad p(HHH) = (0.15)^3.**
+p(TTT) = (0.85)^3, \quad p(\text{two tails}) = 3(0.15)(0.85)^2, \quad p(\text{one tail}) = 3(0.15)^2(0.85), \quad p(HHH) = (0.15)^3.
 $$
 
 How does **that** work?
