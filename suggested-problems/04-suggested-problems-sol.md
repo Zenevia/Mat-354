@@ -102,7 +102,7 @@ $$
 
 ---
 
-**Problem 6**: 
+**Problem 6**: Answers to E and G switched?
 
 **(a)** $P(\\{-1\\}) = 0.1$
 
